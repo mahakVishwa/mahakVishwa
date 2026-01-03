@@ -12,14 +12,14 @@ Python → Machine Learning | Power BI • React • JavaScript • PHP
 
 ## 🧠 About Me
 
-I’m an IT student who enjoys working at the intersection of **data, logic, and creativity**.
+I’m an IT student who enjoys working at the intersection of **data, logic and creativity**.
 
 - Interested in **data analysis** and extracting meaningful insights from real-world data  
 - Currently strengthening **Python** for analytics and data workflows  
 - Actively transitioning towards **Machine Learning**, step by step  
 - Strong foundation in frontend development using **React & JavaScript**
 
-I like building things that are not just functional, but thoughtfully designed.
+I like building things that are not just functional but thoughtfully designed.
 
 ---
 
